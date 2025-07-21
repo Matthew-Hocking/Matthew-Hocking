@@ -44,12 +44,12 @@ I love creating full-stack applications that make people's lives easier. Whether
 
 ## 💼 Featured Projects
 
-### 🎬 [Pickture](YOUR_PICKTURE_LINK)
+### 🎬 [Pickture](https://pickture-preview.vercel.app/)
 A media discovery app that helps users decide what to watch when overwhelmed with streaming options. Tracks availability across platforms and regions using the TMDB API.
 - **Tech:** Next.js, TypeScript, PostgreSQL, Vercel
 - **Problem solved:** Choice paralysis in the streaming age
 
-### 📋 [Skadi](YOUR_SKADI_LINK)
+### 📋 [Skadi](https://skadi-job-hunt.vercel.app/)
 Job application tracker that helps users manage their job search with status tracking and custom categorisation lists.
 - **Tech:** React, Supabase (database & auth)
 - **Problem solved:** Keeping organised during job hunting
